@@ -1,0 +1,14 @@
+# User-specific credentials
+token.json
+client_secrets.json
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment
+.env
+.venv
+venv/
